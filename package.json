@@ -12,6 +12,7 @@
     "gulp"
   ],
   "devDependencies": {
+    "gulp": "*",
     "browser-sync": "^2.7.4",
     "gulp-autoprefixer": "*",
     "gulp-concat": "*",
