@@ -1,0 +1,1 @@
+function uglify(){console.log("저는 어글리해질 운명입니다ㅠㅠ");var o=0;console.log(o)}

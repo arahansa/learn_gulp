@@ -1,0 +1,27 @@
+{
+  "name": "jasmine2-junit",
+  "main": "jasmine2-junit.js",
+  "homepage": "https://github.com/IxDay/jasmine2-junit",
+  "authors": [
+    "Maxime Vidori <maxime.vidori@gmail.com>",
+    "Sander Mak"
+  ],
+  "description": "jasmine2-junit adds a JUnitXmlReporter which outputs JUnit compliant testreports",
+  "license": "Apache",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "16ce3cc5fc",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "16ce3cc5fc9f1929f7a2f81017997a84e03cb8be"
+  },
+  "_source": "git://github.com/IxDay/jasmine2-junit.git",
+  "_target": "*",
+  "_originalSource": "jasmine2-junit"
+}
